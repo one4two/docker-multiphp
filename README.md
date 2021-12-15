@@ -5,7 +5,7 @@
 2. Move to project directory
 3. Run ```docker-compose up -d```
 4. Make script executable ```sudo chmod +x ./get-composer.sh```
-5. Run script ```./get-composer.sh```
+5. Run  ```./get-composer.sh```
 
 > USAGE:
   ```
