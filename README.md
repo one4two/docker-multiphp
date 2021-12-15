@@ -1,4 +1,4 @@
-# Docker multiple PPP containers
+# Docker multiple PHP containers
 Multiple PHP docker containers, with docker-compose
 
 1. Clone project git clone https://github.com/one4two/docker-multiphp.git
