@@ -3,7 +3,7 @@
 
 1. Clone project ```git clone https://github.com/one4two/docker-multiphp.git```
 2. Run ```docker-compose up -d```
-3. Make script executable ```chmod +x ./get-composer.sh```
+3. Make script executable ```sudo chmod +x ./get-composer.sh```
 4. Run script ```./get-composer.sh```
 
 > USAGE:
