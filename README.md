@@ -9,7 +9,7 @@
 
 > Install package
 ```
-docker exec -it php56 /bin/sh -c 'php composer.phar require <author>/<package-name>'
+docker exec -it php56 /bin/sh -c 'php composer.phar require <vendor>/<package>'
 ```
 
 > USAGE:
