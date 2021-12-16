@@ -7,6 +7,11 @@
 4. Make script executable ```sudo chmod +x ./get-composer.sh```
 5. Run  ```./get-composer.sh```
 
+> Install package
+```
+docker exec -it php56 /bin/sh -c 'php composer.phar require <author>/<package-name>'
+```
+
 > USAGE:
   ```
   docker exec -it php56 /bin/sh -c 'php run.php'
